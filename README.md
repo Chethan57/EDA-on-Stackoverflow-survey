@@ -24,8 +24,28 @@ The dataset used in this analysis is the Stack Overflow Annual Developer Survey 
 3. **Key Findings**: Summarizing the key findings and insights obtained from the analysis, including trends in programming languages, technologies, job satisfaction, and demographics among developers.
 
 
+## Visualisation
 
+ ### 1-Top Countries of Respondents
+ 
+ <img src="https://github.com/Chethan57/EDA-on-Stackoverflow-survey/blob/main/Top%20Countries.png" alt="Image Description" width="500"/>
 
+ ### 2-Age of Respondents
+
+ <img src="https://github.com/Chethan57/EDA-on-Stackoverflow-survey/blob/main/Age%20of%20respondents.png" alt="Image Description" width="500"/>
+
+ ### 3-Top Education of Respondents
+
+<img src="https://github.com/Chethan57/EDA-on-Stackoverflow-survey/blob/main/Education%20of%20respondents.png" alt="Image Description" width="500"/>
+
+ ### 4- When did you first start to code
+
+ <img src="https://github.com/Chethan57/EDA-on-Stackoverflow-survey/blob/main/First%20start%20to%20code.png" alt="Image Description" width="500"/>
+
+ ### 4- Years of coding experience
+
+ <img src="https://github.com/Chethan57/EDA-on-Stackoverflow-survey/blob/main/Years%20of%20coding%20experience.png" alt="Image Description" width="500"/>
+ 
 ## Conclusion
 
 - The survey may not fully represent certain demographics, with fewer responses from individuals in non-English-speaking countries, as well as from women and non-binary genders.
